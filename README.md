@@ -22,6 +22,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kshitijbhatt1998&icon=0&color=1)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Kshitijbhatt1998&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
