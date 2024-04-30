@@ -1,3 +1,11 @@
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
+<br>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kshitij+Bhatt!" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on improving my coding skills  <br>🤝 I’m looking for help with learning about AI<br>🌱 I’m currently doing a bachelor's in computer science<br>💬 Get in Touch of any collaboration requests<br>⚡ I run on caffeine and commit messages.
 
