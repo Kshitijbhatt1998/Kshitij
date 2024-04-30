@@ -19,8 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<img src='https://randommeme-five.vercel.app' style="height: 400px;"/>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fxenoxdev%2Fshare-a-git-meme-make-the-community-smile-fk0&psig=AOvVaw2y4r0voQLNjEnrAMkLrv64&ust=1714583404102000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjJ74m36oUDFQAAAAAdAAAAABAR' style="height: 400px;"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=Kshitijbhatt1998&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
